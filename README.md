@@ -1,6 +1,5 @@
 # FlightSystemDB(SLAY BOOKING FLIGHT)
 
-> Link to README: https://github.com/danielo83996/FlightSystemDB
 
 ## Table of Contents
 * [Overview](#overview)
