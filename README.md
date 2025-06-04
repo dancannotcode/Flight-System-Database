@@ -222,7 +222,7 @@ Challenges faced during the project:
 
 ## Contributors
 List of all contributors involved in the project:
-* [Daniel](https://github.com/danielo83996) - Backend Dev
-    * vhandeled the insertion and modification of tables in the DB  
+* [Daniel](https://github.com/dancannotcode) - fullstack Dev
+    * vhandeled the insertion and modification of tables in the DB, as well as the css/html for user page
 * [Van](https://github.com/vana1219) - fullstack Dev
-    * created the webpages and the CSS for them, as well as handling selection from DB  
+    * created most webpages and the CSS for them, as well as handling selection from DB  
