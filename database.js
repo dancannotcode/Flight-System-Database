@@ -2,10 +2,10 @@ import mysql from 'mysql2'
 
 
 const pool = mysql.createPool({
-    host: '127.0.0.1',
-    user: 'root',
-    password: 'Do34117x!',
-    database: 'test'
+    host: '',
+    user: '',
+    password: '',
+    database: ''
 }).promise()
 
 export async function getFlights() {
